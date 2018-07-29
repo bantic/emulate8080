@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Cory Forsyth <cory.forsyth@gmail.com> (http://coryforsyth.com/)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.5.4"
+  }
 }
